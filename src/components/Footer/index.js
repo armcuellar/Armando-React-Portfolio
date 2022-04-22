@@ -1,6 +1,6 @@
 import React from "react";
 
-function Portfolio() {
+function Footer() {
     return (
         <section>
 
@@ -8,4 +8,4 @@ function Portfolio() {
     );
 }
 
-export default Portfolio;
+export default Footer;

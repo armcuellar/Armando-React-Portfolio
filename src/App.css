@@ -9,6 +9,9 @@
 .active{
   font-weight: bolder;
 }
+.nav-item{
+  cursor: pointer;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
