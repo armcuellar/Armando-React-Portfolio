@@ -12,6 +12,9 @@
 .nav-item{
   cursor: pointer;
 }
+.logo{
+  max-width: 50px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
