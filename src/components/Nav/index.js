@@ -11,8 +11,8 @@ function Nav(props) {
     }, [currentCategory]);
 
     return (
-        <header>
-            <nav className="navbar navbar-expand-sm navbar-light bg-light">
+        <header className='headerStyle'>
+            <nav className="navbar navbar-expand-sm navbar-light">
                 <div className="container-fluid">
                     <a href="/" className="navbar-brand">
                         Armando's Portfolio

@@ -1,7 +1,15 @@
 .App {
   text-align: center;
 }
-
+body {
+  background-color: #D6FFFB;
+}
+.headerStyle {
+background: linear-gradient(90deg, rgba(130,171,161,1) 33%, rgba(184,225,255,1) 68%);
+}
+.active{
+  background-color: #C3FDD0;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -15,6 +23,21 @@
 .logo{
   max-width: 50px;
 }
+/* .projectDiv {
+  position: relative;
+
+} */
+.projectDiv img{
+  position: relative;
+  opacity: 100%;
+}
+.projectDiv:hover img{
+  opacity:25%;
+  z-index: -100;
+}
+/* .projectDiv:hover {
+  opacity:100%;
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
