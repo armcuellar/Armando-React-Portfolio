@@ -20,7 +20,7 @@ URL of deployed application: https://armando-portfolio.herokuapp.com/
 ## Usage
 The portfolio showcases projects completed and their respective github link and deploymnet. There is a contact form included and links to social media accounts and email.
 
-![Screenshot of Budget Tracker](images/budgetTracker_screenshot.png)
+![Screenshot of Armando React Porfolio](img/portfolio_screenshot.png)
 
 
 ## Credits
