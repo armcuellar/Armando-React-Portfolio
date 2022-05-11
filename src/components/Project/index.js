@@ -8,7 +8,7 @@ function Project() {
     const [projects] = useState([
         {
             image: 'parkaddventureImg.png',
-            title: 'Park Add Venture',
+            title: 'Park-Add-Venture',
             repoLink: 'https://github.com/8bitgaming/Park-Add-Venture',
             deploymentLink: 'https://parkaddventure.herokuapp.com/'
         },
