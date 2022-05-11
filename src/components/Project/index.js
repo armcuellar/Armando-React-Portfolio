@@ -7,6 +7,12 @@ function Project() {
     // link to repo
     const [projects] = useState([
         {
+            image: 'parkaddventureImg.png',
+            title: 'Park Add Venture',
+            repoLink: 'https://github.com/8bitgaming/Park-Add-Venture',
+            deploymentLink: 'https://parkaddventure.herokuapp.com/'
+        },
+        {
             image: 'OgreQuest.PNG',
             title: 'OgreQuest',
             repoLink: 'https://github.com/8bitgaming/OgreQuest',
